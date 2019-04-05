@@ -2,6 +2,6 @@ Pocket Mail
 =========================
 (C) Casper Juul Lorentzen
 
-[~Note~]
+[~] Note
 Invalid logins will still open
 the main window.

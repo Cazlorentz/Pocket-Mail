@@ -1,0 +1,12 @@
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\bin\Debug\Pocket mail.exe.config
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\bin\Debug\Pocket mail.exe
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\bin\Debug\Pocket mail.pdb
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket mail.csprojAssemblyReference.cache
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket_mail.Properties.Resources.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket mail.csproj.GenerateResource.cache
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket mail.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket mail.exe
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket mail.pdb
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket_mail.Form1.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket_mail.LoginMenu.resources
+C:\Users\Casper\Documents\C# Programmering\Pocket mail\Pocket mail\obj\Debug\Pocket_mail.LoginPage.resources
